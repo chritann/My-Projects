@@ -1,5 +1,9 @@
+# Project Descriptions
+
 This repository is essentially a collection of some solo projects I've worked on over
 the past year. This includes schematics, PCB layouts, and firmware. 
+
+* **Emotion Sensor**
 
 The firmware folder contains code for the on board microcontroller used in the designs in 
 the GSR sensor folder. This folder contains a schematic and layout for a wearable,
@@ -13,6 +17,7 @@ communication protocols such as I2C SPI and USART. More information on this proj
 can be found at the following website, 
 http://blogs.oregonstate.edu/industry/2014/03/12/art-meets-engineering/
 
+* **Motor Controller PCB**
 
 The Motor Controller folder consists of designs for a PCB used for Oregon State 
 University's TekBot, which is a learning platform used to teach introductory level 
