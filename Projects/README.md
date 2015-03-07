@@ -5,7 +5,7 @@ the past year. This includes schematics, PCB layouts, and firmware.
 
 * **Emotion Sensor**
 
-The firmware folder contains code for the on board microcontroller used in the designs in 
+The code folder contains firmware for the on board microcontroller used in the designs in 
 the GSR sensor folder. This folder contains a schematic and layout for a wearable,
 wireless sensor I designed for a professor at OSU. The sensor measure galvanic skin 
 response, which is essentially minute changes in skin conductance. This data is then 
